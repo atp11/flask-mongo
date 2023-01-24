@@ -1,3 +1,5 @@
+Basic blog application tutorial called [Flaskr](https://flask.palletsprojects.com/en/2.2.x/tutorial/) modified to use Mongo as a database.
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate
